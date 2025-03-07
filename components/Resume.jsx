@@ -19,27 +19,27 @@ const Resume = ({ envData }) => {
   const projects = [
     {
       title: "fruitbae.com",
-      link: "https://www.superprof.co.in/",
+      link: "https://www.fruitbae.com/",
     },
     {
       title: "Flowers.com",
-      link: "https://fishykart.in/",
+      link: "https://www.proflowers.com/",
     },
     {
       title: "amararaja.com",
-      link: "https://www.winni.in/",
+      link: "https://www.amararaja.com/",
     },
     {
       title: "advanceskinhairclini",
-      link: "https://www.abcconsultants.in/",
+      link: "https://www.advanceskinhairclinic.com/",
     },
     {
       title: "FeedCenter.com",
-      link: "https://dlifeinteriors.com/",
+      link: "https://feedocenter.com/#/",
     },
     {
       title: "EarnX",
-      link: "https://clovedental.in/",
+      link: "https://earnxj.vercel.app/",
     },
   ];
 
