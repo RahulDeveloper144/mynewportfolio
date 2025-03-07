@@ -16,12 +16,6 @@ const Resume = ({ envData }) => {
     "Redis",
   ];
 
-  // <li>fruitbae.com</li>
-  // <li>Flowers.com</li>
-  // <li>amararaja.com</li>
-  // <li>advanceskinhairclinic</li>
-  // <li>FeedCenter.com</li>
-  // <li>EarnX</li>
   const projects = [
     {
       title: "fruitbae.com",
@@ -65,7 +59,7 @@ const Resume = ({ envData }) => {
             <Image
               width={2048}
               height={2048}
-              src="/images/profile/rahul.png"
+              src="/images/profile/rahul1.jpg"
               alt="pic-5"
               className="rounded-full rotate-[15deg]"
             />
@@ -112,10 +106,10 @@ const Resume = ({ envData }) => {
               </button>
               <div className="pt-4 space-y-1w-full">
                 <h1 className="text-sm font-bold text-gray-700">
-                  Full Stack Developer (4 Years+)
+                  Full Stack Developer (3 Years+)
                 </h1>
                 <h3 className="text-sm text-gray-500">
-                  <span>Techsunset [2020-2024]</span>
+                  <span>Techsunset [2021-2025]</span>
                 </h3>
               </div>
             </div>

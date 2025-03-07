@@ -119,7 +119,7 @@ const Layout = ({ children, envData }) => {
                   width={100}
                   height={100}
                   layout="responsive"
-                  src="/images/profile/rahul.png"
+                  src="/images/profile/rahul.jpg"
                   alt="pic"
                   className="2xl:mt-0 mt-8 mb-4 rounded-xl "
                 />
